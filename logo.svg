@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="36" height="36">
+  <!-- Top/center leaf -->
+  <path d="M22,4 C26,4 31,8 31,14 C31,19 27,22 22,23 C17,22 13,19 13,14 C13,8 18,4 22,4 Z" fill="#4a8a3a"/>
+  <!-- Leaf vein center -->
+  <line x1="22" y1="5" x2="22" y2="22" stroke="#3a6e2e" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Left leaf -->
+  <path d="M9,19 C5,14 5,20 7,25 C9,29 14,31 19,28 C20,25 19,21 16,19 C13,17 11,18 9,19 Z" fill="#4a8a3a"/>
+  <!-- Left leaf vein -->
+  <line x1="9" y1="19" x2="18" y2="28" stroke="#3a6e2e" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Right leaf -->
+  <path d="M35,19 C39,14 39,20 37,25 C35,29 30,31 25,28 C24,25 25,21 28,19 C31,17 33,18 35,19 Z" fill="#4a8a3a"/>
+  <!-- Right leaf vein -->
+  <line x1="35" y1="19" x2="26" y2="28" stroke="#3a6e2e" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Stem -->
+  <line x1="22" y1="23" x2="22" y2="38" stroke="#7a5230" stroke-width="2" stroke-linecap="round"/>
+  <!-- Left petiole -->
+  <line x1="22" y1="27" x2="15" y2="24" stroke="#7a5230" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Right petiole -->
+  <line x1="22" y1="27" x2="29" y2="24" stroke="#7a5230" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- No symbol: red circle -->
+  <circle cx="22" cy="22" r="20" fill="none" stroke="#cc1111" stroke-width="3.5"/>
+  <!-- No symbol: diagonal line upper-left to lower-right -->
+  <line x1="7.8" y1="7.8" x2="36.2" y2="36.2" stroke="#cc1111" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
