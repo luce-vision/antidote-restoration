@@ -37,11 +37,26 @@ nav .nav-inner {
 
 nav .logo {
   color: #fff;
-  font-size: 1.3rem;
-  font-weight: 700;
-  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-family: 'Beau Rivage', cursive;
   text-decoration: none;
   letter-spacing: 0.5px;
+}
+
+nav .logo img {
+  height: 1.1em;
+  width: auto;
+  vertical-align: text-top;
+  margin-left: 10px;
+  background: #fff;
+  border-radius: 50%;
+  padding: 4px;
+  border: 1px solid #111;
+}
+
+nav .logo-home img {
+  border-width: 1.5px;
 }
 
 nav ul {
@@ -78,8 +93,9 @@ nav.nav-home .nav-inner-home {
 }
 
 nav.nav-home .logo-home {
-  font-size: 3.4rem;
+  font-size: 4.2rem;
   letter-spacing: 2px;
+  font-family: 'Beau Rivage', cursive;
 }
 
 /* Hero */
@@ -513,9 +529,7 @@ footer a {
   }
 
   nav .logo img {
-    width: 22px !important;
-    height: 22px !important;
-    margin-right: 6px !important;
+    margin-right: 6px;
   }
 
   nav ul {
