@@ -84,7 +84,11 @@ nav.nav-home .logo-home {
 
 /* Hero */
 .hero {
-  background: linear-gradient(135deg, #2e5e2e 0%, #4a8a3a 60%, #6aab50 100%);
+  background:
+  linear-gradient(135deg, rgba(30, 65, 30, 0.82) 0%, rgba(58, 110, 42, 0.75) 60%, rgba(90, 150, 55, 0.70) 100%),
+  url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pacific_Poison_Oak_-_Toxicodendron_diversilobum_%2842585361985%29.jpg/1920px-Pacific_Poison_Oak_-_Toxicodendron_diversilobum_%2842585361985%29.jpg');
+background-size: cover;
+background-position: center;
   color: #fff;
   text-align: center;
   padding: 6rem 2rem 4rem;
