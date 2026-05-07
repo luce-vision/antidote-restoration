@@ -42,21 +42,25 @@ nav .logo {
   font-family: 'Beau Rivage', cursive;
   text-decoration: none;
   letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
 }
 
 nav .logo img {
-  height: 1.1em;
+  height: 1em;
   width: auto;
-  vertical-align: text-top;
-  margin-left: 10px;
+  margin-left: 8px;
   background: #fff;
   border-radius: 50%;
-  padding: 4px;
-  border: 1px solid #111;
+  padding: 2px;
+  border: 1px solid #333;
 }
 
 nav .logo-home img {
+  height: 1.1em;
+  padding: 4px;
   border-width: 1.5px;
+  vertical-align: text-top;
 }
 
 nav ul {
